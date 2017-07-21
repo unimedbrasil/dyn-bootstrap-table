@@ -1,0 +1,21 @@
+{
+  "name": "dyn-bootstrap-table",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Dynamix Software"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.x",
+    "bootstrap-table": "~1.11.x"
+  }
+}
